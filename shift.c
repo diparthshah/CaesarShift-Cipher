@@ -53,7 +53,7 @@ int main()
 		i++;
 	}
 
-    printf("\n-----------------------------------------"); 
+        printf("\n-----------------------------------------"); 
 	printf("\n Orignal String    :  %s",string);
 	printf("\n Encrypted String  :  %s",enc);
 	printf("\n Decrypted String  :  %s",dec);
