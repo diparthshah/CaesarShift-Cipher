@@ -39,11 +39,11 @@ int main()
 	{
 		buf=string[i];
 		buf=buf-shift; // subtracting shift value to character for encrypting 
-        enc[i]=buf;
-        i++;
+                enc[i]=buf;
+                i++;
 	}
     
-    // decrypting 
+    // decryption 
     i=0; 
 	while(enc[i]!='\0')
 	{
